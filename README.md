@@ -21,4 +21,4 @@ One of the best things about using Markdown, is the ability to include sample co
 
 ### License Information
 
-All the notes and sample projects stored in this repository are licensed under the GPLv3 license. You are free to use them persuant to the terms of the GPLv3 license agreement.
+All the notes and sample projects stored in this repository are licensed under the GPLv3 license. You are free to use them persuant to the terms of the [GPLv3 license agreement](https://github.com/jay-telford/FE-Course/blob/main/LICENSE).
