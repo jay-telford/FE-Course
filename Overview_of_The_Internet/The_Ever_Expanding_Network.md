@@ -11,3 +11,7 @@ TCP/IP was researched and specified throughout the 1970s and adopted in the earl
 ### ARPANET Sample Map
 
 On the right of [this page](https://www.codecademy.com/paths/front-end-engineer-career-path/tracks/fecp-22-overview-of-web-development/modules/wdcp-22-the-internet-and-web-development/lessons/what-is-the-internet/exercises/expanding-network) can be found a sample map of how ARPANET connected supercomputers in the early days. 
+
+### Codecademy Exercise Thread
+
+Questions and answers can be posted and found at the [Codecademy Forums](https://discuss.codecademy.com/t/faq-overview-of-the-internet-hello-internet/372006).
