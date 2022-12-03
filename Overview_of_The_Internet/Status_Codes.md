@@ -15,3 +15,7 @@ There are a number of status codes.  In the table below I have laid out the stat
 |  302 (temp moved)            |  The resource has been temp moved        |
 |  404 (not found)             |  The requested resource was not found    |
 |  500 (internal server error  |  The server encounted an internal error  |
+
+### Status Code Examples:
+
+In the example to the right of [this lesson](https://www.codecademy.com/paths/front-end-engineer-career-path/tracks/fecp-22-overview-of-web-development/modules/wdcp-22-the-internet-and-web-development/lessons/what-is-the-internet/exercises/404-test) I can see the 404 status code in operation. 
