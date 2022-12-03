@@ -12,6 +12,9 @@ One of the best things about using Markdown, is the ability to include sample co
 
 ## Links To Notes Sections
 
+* [Course Introduction](https://github.com/jay-telford/FE-Course/tree/main/Course_Introduction)
+* [Overview of Web Development](https://github.com/jay-telford/FE-Course/tree/main/Overview_of_Web_development)
+* [Overview of The Internet](https://github.com/jay-telford/FE-Course/tree/main/Overview_of_The_Internet)
 
 ## Links To Sample Projects
 
