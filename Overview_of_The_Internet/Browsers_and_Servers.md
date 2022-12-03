@@ -21,3 +21,14 @@ A more detailed explaination of the cient-server model can be found in the video
 
 ### The community Forums
 More questions and answers can be found in the [lesson thread](https://discuss.codecademy.com/t/faq-overview-of-the-internet-browsers-and-servers/372012) of the comunoity forums.
+
+##### Additional Notes:
+An important part of HTTP is that each request method that specifies the type of request being made.
+
+**Example**
+
+GET:
+If the user is only requesting information be sent to them from the server, then they would use a GET request.
+
+POST:
+If the user is requesting to send information to the server, for example, submitting information via a form, a POST request would be made. 
