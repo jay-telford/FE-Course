@@ -8,9 +8,10 @@ All of the following steps hapen in a split second
 
 1. When a user types a URL and presses enter, the server processes the request and sends the HTML file back to the client.  *HTML* files hold the content of the website and they also contain links to any additional assets or code that are needed to display the site properly.
 2. The browser will begin to search for elements in the HTML file and it will start to make additional HTTP requests for any other external resource used by the HTML file.  This often includes:
-		* One or more CSS Stylesheets
-		* Other assets such as images and videos
-		* One or more JavaScript files
+
+* One or more CSS Stylesheets
+* Other assets such as images and videos
+* One or more JavaScript files
 
 In most modern browsers, these additional requests are made in parallel - meaning that these requests are inititated at the same time, and the browser does not wait to receive one resource before requesting another. 
 
