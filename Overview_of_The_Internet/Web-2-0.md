@@ -25,7 +25,7 @@ On the right side of the screen of [this lesson](https://www.codecademy.com/path
 SOme of the differences in Web 2.0 displayed in the above image are:
 
 * Interactive - you can like and comment on the page
-* Dynamic - the time since posting is (currently "12 hrs") updates without reloading the whole page
+* Dynamic - the time since posting is (currently "12 hrs") updates without reloading the whole pagehttps://discuss.codecademy.com/t/372077
 * ALlows social interaction - a lot of friends liked the image!
 
 # More Help and Advice
