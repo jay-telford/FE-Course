@@ -6,7 +6,9 @@ The table below shows how an HTML element is structured.
 
 | **Opening Tag** | **Content** | **Closing Tag** |
 |:---------------:|:-----------:|:---------------:|
-| **<p>**             | Hello World |            **</p>** |
+| "<p>"           | Hello World |          "</p>" |
+
+***quotation marks are not used when writing html - they have veen used in this case to force the opening and closing tags to appear.***
 
 It is also possible to see an example on the right of [the lesson](https://www.codecademy.com/paths/front-end-engineer-career-path/tracks/fecp-22-overview-of-web-development/modules/wdcp-22-the-internet-and-web-development/lessons/web-dev-lang/exercises/html-elements) on Codecademy.
 
