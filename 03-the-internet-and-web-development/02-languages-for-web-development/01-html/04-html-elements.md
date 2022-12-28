@@ -31,9 +31,9 @@ Now lets review each part of the element shown above.
 
 Elements typically contain text, but you can also create elements that hold tabular data, using the `<table>` element.
 
-You can also create forms using the <form> element, to create input fields that users must fill out and submit. You can even create buttons using the <button> tag that users click to submit these forms.
+You can also create forms using the `<form>` element, to create input fields that users must fill out and submit. You can even create buttons using the `<button>` tag that users click to submit these forms.
 
-HTML elements can also contain multimedia such as images, videos, or audio, using the <img>, <video>, and <audio> tags respectively.
+HTML elements can also contain multimedia such as images, videos, or audio, using the `<img>`, `<video>`, and `<audio>` tags respectively.
 
 ## Community Forums
 
