@@ -8,7 +8,7 @@ The table below shows how an HTML element is structured.
 ---------------------------------------------------
 |   Opening Tag   |   Content   |   Closing Tag   |
 |:---------------:|:-----------:|:---------------:|
-| <p>             | Hello World |            </p> |
+|       <p>       | Hello World |      </p>       |
 ---------------------------------------------------
 ```
 
