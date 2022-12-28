@@ -29,7 +29,7 @@ Now lets review each part of the element shown above.
 
 **(A)**: There are many different kinds of HTML elements, which can contain different types of content.
 
-Elements typically contain text, but you can also create elements that hold tabular data, using the <table> element.
+Elements typically contain text, but you can also create elements that hold tabular data, using the `<table>` element.
 
 You can also create forms using the <form> element, to create input fields that users must fill out and submit. You can even create buttons using the <button> tag that users click to submit these forms.
 
