@@ -17,7 +17,8 @@ Below is sample that gives an example of HTML
 
 <p>HTML provides the skeleton for websites, and it is a great place to start when learning to code!</p>
 
-<img src="https://content.codecademy.com/programs/code-foundations-path/web-dev-survey/programming.jpeg" alt="" height="100" width="100">
+<img src="https://content.codecademy.com/programs/code-foundations-path/web-dev-
+  survey/programming.jpeg" alt="" height="100" width="100">
 
 <p>HTML is used by:</p>
 <ul>
